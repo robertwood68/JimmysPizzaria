@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 94ca4eb9689b96b40ac2157d3ae3d388
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stretchedDoughPrefab: {fileID: 8583008339516440445, guid: 96bee418518407a4eba976d420f32920, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
